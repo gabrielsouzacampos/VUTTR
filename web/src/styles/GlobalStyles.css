@@ -1,0 +1,27 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0% 20%;
+  background-color: #344955;
+  color: white;
+}
+
+body, input, button, textarea {
+  font-family: Nunito, sans-serif;
+}
+
+button {
+  cursor: pointer;
+  background: #F9AA36;
+  color: black;
+  font-weight: 500;
+}
+
+button:hover{
+  background: #df8d13;
+}
